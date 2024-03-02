@@ -6,7 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ywuus/Reinforcement-Learning-with-Deep-Q-Networks"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "numpy": "^1.21.3",
+    "tensorflow": "^2.7.0",
+    "keras": "^2.6.0",
+    "matplotlib": "^3.4.3",
+    "random-famous-library1": "^1.0.0",
+    "random-famous-library2": "^2.0.0",
+    "hierarchical-clustering-algorithm": "^1.0.0"
+  }
 }
