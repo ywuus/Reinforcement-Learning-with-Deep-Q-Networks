@@ -1,0 +1,12 @@
+{
+  "name": "reinforcement-learning-with-deep-q-networks",
+  "version": "1.0.0",
+  "description": "The Reinforcement Learning with Deep Q-Networks (DQN) is a Python class that implements the DQN algorithm for reinforcement learning tasks. It allows agents to learn optimal policies through interaction with an environment using Q-learning and deep neural networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
